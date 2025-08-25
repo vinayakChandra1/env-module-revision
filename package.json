@@ -19,5 +19,9 @@
   "homepage": "https://github.com/vinayakChandra1/env-module-revision#readme",
   "devDependencies": {
     "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
