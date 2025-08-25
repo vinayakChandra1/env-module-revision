@@ -1,0 +1,23 @@
+{
+  "name": "env-module-revision",
+  "version": "1.0.0",
+  "description": "This is just mine and you should not care about it i am just revising to learn everything.... why are you here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakChandra1/env-module-revision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayakChandra1/env-module-revision/issues"
+  },
+  "homepage": "https://github.com/vinayakChandra1/env-module-revision#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
