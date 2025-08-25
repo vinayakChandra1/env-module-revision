@@ -1,12 +1,15 @@
 /*Nobody Likes you margin f off*/
-*{  margin: 0;
+* {
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-img{  width: 750px;}
+img {
+  width: 750px;
+}
 
-video{
-  width: 500px;}
-
+video {
+  width: 500px;
+}
